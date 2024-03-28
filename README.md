@@ -16,7 +16,7 @@ This repository contains a script that automates the setup process for ControlMy
 3. Follow the prompts to complete the setup process.
 
 ## Author
-This script was authored by [Aviad Ofek](https://github.com/aviado1).
+This script was authored by [aviado1](https://github.com/aviado1).
 
 ## Note
 - Make sure to run the script with administrator privileges for proper execution.
